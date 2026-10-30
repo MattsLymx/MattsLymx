@@ -65,10 +65,10 @@ Apesar de ser um pouco tímido, venho buscando desenvolver minha comunicação, 
 ## 📫 Vamos nos conectar?
 
 <p>
-  <a href="https://www.linkedin.com/in/mateus-de-lima" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-de-lima-386a47216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:mateus.antonio.lima@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
